@@ -1,0 +1,5 @@
+= Polyglot
+
+For text messages in different languages.
+
+Для текстовых сообщений на разных языках.
